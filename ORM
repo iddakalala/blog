@@ -1,0 +1,58 @@
+ORM
+
+Object Relational Mapping
+
+PHP - Eloquent
+
+
+Rubyonrails - ActiveRecord
+
+Java - Hibernate
+
+CRUD
+
+====
+Blog
+====
+
+Posts
+ - title
+ - body
+
+ Step 1: Make database migration for creating posts table
+ Step 2: Make Post model
+ Step 3: Make Post controller
+ Step 4: Make posts route
+
+ CSRF - Cross Site Request Forgery
+
+Http Protocol
+
+Request methods - GET, POST
+
+PATCH/PUT
+DELETE
+
+RESTful
+Representational State Transfer
+
+=================
+C   | POST
+R   | GET
+U   | PATCH/PUT
+D   | DELETE
+
+Principle
+
+DRY - Don't Repeat Yourself
+
+Templating Engines
+PHP - Twig (age go)
+
+Laravel - Blade
+
+ASP - Razor
+
+** Convention over Configuration
+
+ Homestead
